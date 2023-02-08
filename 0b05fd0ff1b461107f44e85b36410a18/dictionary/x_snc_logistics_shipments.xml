@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="28b73dcff1b461107f44e85b36410a59" label="Shipments" max_length="40" name="x_snc_logistics_shipments" text_index="true" type="collection">
+        <element choice="1" label="Carrier" max_length="40" name="carrier" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="FedEx" sequence="0" value="fedex"/>
+                <element inactive_on_update="false" label="UPS" sequence="1" value="ups"/>
+                <element inactive_on_update="false" label="DHL" sequence="2" value="dhl"/>
+            </choice>
+        </element>
+        <element label="Deliver Date" max_length="40" name="deliver_date" type="glide_date"/>
+        <element label="Destination" max_length="32" name="destination" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Recipient" max_length="32" name="recipient" reference="sys_user" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="In Transit" sequence="1" value="in_transit"/>
+                <element inactive_on_update="false" label="Delivered" sequence="2" value="delivered"/>
+                <element inactive_on_update="false" label="Delivery exception" sequence="3" value="delivery_exception"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Tracking Number" max_length="40" name="tracking_number" type="string"/>
+        <index name="index">
+            <element name="destination"/>
+        </index>
+        <index name="index2">
+            <element name="recipient"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

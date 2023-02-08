@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="status" label="Status" language="en" table="x_snc_logistics_shipments">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <help/>
+            <hint/>
+            <label>Status</label>
+            <language>en</language>
+            <name>x_snc_logistics_shipments</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 11:27:36</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Status</sys_name>
+            <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_logistics_shipments_status_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 11:27:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

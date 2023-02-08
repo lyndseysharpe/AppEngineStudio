@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Active Shipments destination</name>
+        <parent>8b844acff1f461107f44e85b36410a71</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:13:21</sys_created_on>
+        <sys_id>4b844acff1f461107f44e85b36410a72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active Shipments destination</sys_name>
+        <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_4b844acff1f461107f44e85b36410a72</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:13:21</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

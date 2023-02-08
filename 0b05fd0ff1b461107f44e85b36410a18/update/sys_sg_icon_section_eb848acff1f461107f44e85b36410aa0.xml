@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>56840acff1f461107f44e85b36410a0a,0b844acff1f461107f44e85b36410a6d,97848acff1f461107f44e85b36410a4a</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles>x_snc_logistics.admin,x_snc_logistics.user</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:13:23</sys_created_on>
+        <sys_id>eb848acff1f461107f44e85b36410aa0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shipments</sys_name>
+        <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+        <sys_update_name>sys_sg_icon_section_eb848acff1f461107f44e85b36410aa0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:13:23</sys_updated_on>
+        <table/>
+        <title>Shipments</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>

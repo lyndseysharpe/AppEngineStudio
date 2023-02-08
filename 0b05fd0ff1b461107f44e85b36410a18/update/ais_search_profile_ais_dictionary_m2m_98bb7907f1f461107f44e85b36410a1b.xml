@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_snc_logistics_logistics_search_profile_default_spell_check_dictionary">dcbb7907f1f461107f44e85b36410a18</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="Logistics search profile">6dabb5072cf4611049601bd5e71058f6</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 11:34:39</sys_created_on>
+        <sys_id>98bb7907f1f461107f44e85b36410a1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_logistics_logistics_search_profile_default_spell_check_dictionary.Logistics search profile</sys_name>
+        <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_98bb7907f1f461107f44e85b36410a1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 11:34:39</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

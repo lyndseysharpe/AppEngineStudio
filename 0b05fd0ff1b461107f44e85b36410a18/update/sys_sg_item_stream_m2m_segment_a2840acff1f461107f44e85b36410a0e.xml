@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="56840acff1f461107f44e85b36410a0a Item Stream">2a840acff1f461107f44e85b36410a0d</item_stream>
+        <segment display_value="FedEx Shipments (All) Item Stream Segment">ea840acff1f461107f44e85b36410a0c</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:13:18</sys_created_on>
+        <sys_id>a2840acff1f461107f44e85b36410a0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_a2840acff1f461107f44e85b36410a0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:13:18</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

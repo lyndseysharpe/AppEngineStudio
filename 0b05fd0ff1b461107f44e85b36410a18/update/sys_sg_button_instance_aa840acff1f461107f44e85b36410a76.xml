@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (FedEx Shipments (All))">66840acff1f461107f44e85b36410a31</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New</name>
+        <order/>
+        <parent>56840acff1f461107f44e85b36410a0a</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:13:19</sys_created_on>
+        <sys_id>aa840acff1f461107f44e85b36410a76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+        <sys_update_name>sys_sg_button_instance_aa840acff1f461107f44e85b36410a76</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:13:19</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa840acff1f461107f44e85b36410a76"/>
+</record_update>

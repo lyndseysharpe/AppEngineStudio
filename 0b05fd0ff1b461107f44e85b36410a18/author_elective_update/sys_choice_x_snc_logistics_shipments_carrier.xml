@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="carrier" table="x_snc_logistics_shipments" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>carrier</element>
+            <name>x_snc_logistics_shipments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 11:27:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>carrier</sys_name>
+            <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+            <sys_update_name>sys_choice_x_snc_logistics_shipments_carrier</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 11:27:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>carrier</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FedEx</label>
+            <language>en</language>
+            <name>x_snc_logistics_shipments</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 11:27:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>251a7983f1f461107f44e85b36410afb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 11:27:38</sys_updated_on>
+            <value>fedex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>carrier</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UPS</label>
+            <language>en</language>
+            <name>x_snc_logistics_shipments</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 11:27:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad1a7983f1f461107f44e85b36410afc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 11:27:38</sys_updated_on>
+            <value>ups</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>carrier</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DHL</label>
+            <language>en</language>
+            <name>x_snc_logistics_shipments</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 11:27:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d1a7983f1f461107f44e85b36410afd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 11:27:38</sys_updated_on>
+            <value>dhl</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

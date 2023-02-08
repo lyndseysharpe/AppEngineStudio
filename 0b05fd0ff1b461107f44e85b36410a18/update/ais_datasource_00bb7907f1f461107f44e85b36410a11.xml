@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Shipments Table</name>
+        <retention_policy/>
+        <source>x_snc_logistics_shipments</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 11:34:39</sys_created_on>
+        <sys_id>00bb7907f1f461107f44e85b36410a11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shipments Table</sys_name>
+        <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+        <sys_update_name>ais_datasource_00bb7907f1f461107f44e85b36410a11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 11:34:39</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

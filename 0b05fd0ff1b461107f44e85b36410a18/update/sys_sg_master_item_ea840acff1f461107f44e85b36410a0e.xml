@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_logistics_shipments</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="FedEx Shipments (All) Form Screen">26840acff1f461107f44e85b36410a0b</embedded_screen>
+        <item_view/>
+        <name>FedEx Shipments (All) Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:13:18</sys_created_on>
+        <sys_id>ea840acff1f461107f44e85b36410a0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FedEx Shipments (All) Form Screen Master Item</sys_name>
+        <sys_package display_value="Logistics" source="x_snc_logistics">0b05fd0ff1b461107f44e85b36410a18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">0b05fd0ff1b461107f44e85b36410a18</sys_scope>
+        <sys_update_name>sys_sg_master_item_ea840acff1f461107f44e85b36410a0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:13:18</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="FedEx Shipments (All) List Screen View Config">de84c6cff1f461107f44e85b36410a99</view_config>
+    </sys_sg_master_item>
+</record_update>
